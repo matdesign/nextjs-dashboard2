@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-###This is a prototype of a nextjs-dashboard
+### This is a prototype of a nextjs-dashboard
+![readmeimg](https://github.com/matdesign/nextjs-dashboard2/assets/59199475/66a5222d-6210-4f5b-a8fa-8e204c74c5d0)
 
 ## Getting Started
 
